@@ -15,7 +15,7 @@
 #                                                                          #
 ############################################################################
 
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 
 MAINTAINER David Currie <david_currie@uk.ibm.com>
 
